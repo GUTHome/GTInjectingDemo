@@ -1,0 +1,6 @@
+framework module Pods_GTInjectingDemoTests {
+  umbrella header "Pods-GTInjectingDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
